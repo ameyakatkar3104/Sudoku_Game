@@ -1,9 +1,9 @@
 # Sudoku_Game
 
-##Objective: 
+## Objective: 
   - The Sudoku game is a number puzzle where the goal is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids contain all of the       digits from 1 to 9. This implementation uses the backtracking algorithm to solve Sudoku puzzles.
 
-##Key Features:
+## Key Features:
 1. **Grid Representation:**
 
      - The Sudoku grid is represented using a 2D array int grid[9][9].
@@ -24,7 +24,7 @@
     - The grid can be input by the user or read from a predefined setup.
     - The solved Sudoku grid is displayed on the console.
 
-##Implementation Details:
+## Implementation Details:
 1. **Grid Initialization:**
 
     - The grid is initialized with a predefined puzzle or taken as input from the user.
